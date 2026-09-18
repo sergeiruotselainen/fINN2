@@ -1,12 +1,16 @@
 [
   {
+    "id": "5c3f28846c8002c3453b62835cf9c5f0",
+    "title": "RESIDENT EVIL 2026",
+    "description": "RESIDENT EVIL.",
     "slug": "resident-evil-2026",
-    "file": "output\\resident-evil-2026.html",
-    "url": "https://sergeiruotselainen.github.io/Finn/resident-evil-2026.html"
+    "published": true
   },
   {
+    "id": "a7fdffffcb96149a9ccfda2177ff2d83",
+    "title": "RUN 2026",
+    "description": "RUN.",
     "slug": "run-2026",
-    "file": "output\\run-2026.html",
-    "url": "https://sergeiruotselainen.github.io/Finn/run-2026.html"
+    "published": true
   }
 ]
